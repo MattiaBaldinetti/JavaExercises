@@ -1,0 +1,17 @@
+Enter a student name, Q to quit:
+Smith, Joe
+Enter a student name, Q to quit:
+Chu, Mary
+Enter a student name, Q to quit:
+Gonzales, Alberto
+Enter a student name, Q to quit:
+Q
+Enter scores for Smith, Joe, Q to quit:
+8 7 8.5 9.5 7 5 10 Q
+Enter scores for Chu, Mary, Q to quit:
+9 7 8.5 9.5 7 5 10 Q
+Enter scores for Gonzales, Alberto, Q to quit:
+8 7 8.5 9.5 7 10 10 Q
+Smith, Joe: 50.0
+Chu, Mary: 51.0
+Gonzales, Alberto: 53.0
