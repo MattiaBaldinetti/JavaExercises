@@ -1,0 +1,22 @@
+Enter a sequence of positive integers.  Enter a negative value to quit: 
+5 5 4 -1
+** 
+** 
+** 
+** 
+***
+***
+***
+***
+***
+***
+***
+***
+***
+***
+***
+***
+***
+***
+***
+***

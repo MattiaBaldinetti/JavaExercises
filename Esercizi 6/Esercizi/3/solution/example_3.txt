@@ -1,0 +1,10 @@
+Please enter values, Q to quit:
+2 4 6 8 10 1 7 Q
+Output:
+2.0
+4.0
+6.0
+8.0
+10.0 <== largest value
+1.0 <== smallest value
+7.0

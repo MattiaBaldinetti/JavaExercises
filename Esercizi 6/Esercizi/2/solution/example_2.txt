@@ -1,0 +1,4 @@
+Elements with an even index: 32 71 21 30 21 
+Even elements: 32 90 20 90 30 
+Elements of the array in reverse order: 85 21 35 30 90 21 20 71 90 32 
+First and last elements: 32 85
