@@ -1,0 +1,35 @@
+################ Lato 5
+What is the size of the box? 
+5
+xxxxx
+xx xx
+x x x
+xx xx
+xxxxx
+
+################ Lato 7
+This program prints a box with an X drawn in it.
+
+What is the size of the box? 
+7
+xxxxxxx
+xx   xx
+x x x x
+x  x  x
+x x x x
+xx   xx
+xxxxxxx
+
+################ Lato 8
+This program prints a box with an X drawn in it.
+
+What is the size of the box? 
+8
+xxxxxxxx
+xx    xx
+x x  x x
+x  xx  x
+x  xx  x
+x x  x x
+xx    xx
+xxxxxxxx

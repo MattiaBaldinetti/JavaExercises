@@ -1,0 +1,10 @@
+Enter the side length of the diamond: 5
+    x x
+   xx xx
+  xxx xxx
+ xxxx xxxx
+xxxxx xxxxx
+ xxxx xxxx
+  xxx xxx
+   xx xx
+    x x
